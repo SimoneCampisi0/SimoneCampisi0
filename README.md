@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SimoneCampisi0
-- 👀 I’m interested in Back-end and front-end development
+- 👀 I’m interested in back-end and front-end development
 - 🌱 I’m currently learning React
 - ⚡ Fun fact: I aim to have more lines of code written than hair.
 
